@@ -691,7 +691,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3.5
-  moveTime: 3.39
+  moveTime: 3.3
   delayTime: 1
   direction: {x: -1, y: 0, z: 0}
   onMovementComplete:
